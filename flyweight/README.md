@@ -17,6 +17,8 @@
     此乃這個例子的共享部份。<br />
     但是不同的字型或大小, 是為不同的部份。<br />
 <br />
+
 # Reference
+
 http://xyz.cinc.biz/2013/07/flyweight-pattern.html <br />
 http://www.cnblogs.com/zhenyulu/articles/55793.html <br />
